@@ -1,27 +1,8 @@
-# SharedNotes
-Shared notes (scanned or digital) from the University Courses
-
-## Attribution
-
-### UBC MATH 200
-
-[Notes](https://github.com/stefanovazzocell/SharedNotes/blob/master/notes/UBC/MATH/200/UBC_MATH200_Ruiyu.pdf) - [Ruiyu](https://github.com/Ein04/)
-
-[Cheatsheet](https://github.com/stefanovazzocell/SharedNotes/blob/master/notes/UBC/MATH/200/UBC_MATH200_Cheatsheet_Ruiyu.pdf) - [Ruiyu](https://github.com/Ein04/)
-
-### UBC MATH 221
-
-[Notes](https://github.com/stefanovazzocell/SharedNotes/blob/master/notes/UBC/MATH/221/UBC_MATH221_Ruiyu.pdf) - [Ruiyu](https://github.com/Ein04/)
-
-[WebWork](https://github.com/stefanovazzocell/SharedNotes/tree/master/notes/UBC/MATH/221/WebWork/2018W1/Stefano) - [Stefano](https://github.com/stefanovazzocell/)
-
----
-
-## How to contribute
+# How to contribute
 
 You can add your **own** materials. If you want to add an assignment contact the professor first to ask for permission. Send proof to [Stefano Vazzoler (stefanovazzocell@gmail.com)](mailto:stefanovazzocell@gmail.com) before adding anything.
 
-### Folder/File Structure
+## Folder/File Structure
 
 All under `/notes/`
 
@@ -41,9 +22,9 @@ Cheatsheet: `/UNIVERSITY/COURSE###/{?LAB/}{?TUTORIAL/}Cheatsheet_{author}.pdf`, 
 
 WebWork: `/UNIVERSITY/COURSE###/WebWork/{year}{semester}/{author}`, add `Questions/{Number}.pdf` and `Answers/{Number}.pdf`, accepted formats: `.pdf`, `.tex`
 
-### Takedown / Copyright
+## Takedown / Copyright
 
-#### University
+### University
 
 Are you a professor, course coordinator, university admin, or some other representative thereof that would like to request some material to be removed?
 
@@ -53,19 +34,19 @@ I will remove homeworks, problem sets, labs, midterms, exams, and any similar ma
 
 I will not remove student's notes, student's cheatsheets, or any material originating from students since it's not owned by the course or uni (unless special circumstances apply).
 
-#### Notes Author
+### Notes Author
 
 If you have access to the repository, you can remove your own notes. If you don't have access but you would still like to remove your own notes, contact me.
 
-#### Other
+### Other
 
 In any other case contact me.
 
-#### Contact info
+### Contact info
 
 You can contact me at [Stefano Vazzoler (stefanovazzocell@gmail.com)](mailto:stefanovazzocell@gmail.com) or *preferably* open a [GitHub issue](https://github.com/stefanovazzocell/SharedNotes/issues) with the appripriate tags
 
-##### Response time
+#### Response time
 
 I cannot provide an accurate response time but you can expect an answer usually within 10 days via email. If it takes longer than 15 days, it might be the case that it was flagged as SPAM (if so, open a [GitHub issue](https://github.com/stefanovazzocell/SharedNotes/issues)).
 
