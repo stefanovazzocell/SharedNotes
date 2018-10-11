@@ -37,9 +37,15 @@ Tutorial: `/{UNIVERSITY}/{COURSE}/TUTORIAL/`
 
 Notes: `/UNIVERSITY/COURSE###/{?LAB/}{?TUTORIAL/}Notes_{author}.pdf`, accepted formats: `.md`, `.tex`, `.pdf`, `.html`, `.txt`
 
-Cheatsheet: `/UNIVERSITY/COURSE###/{?LAB/}{?TUTORIAL/}Cheatsheet_{author}.pdf`, accepted formats: `.md`, `.tex`, `.pdf`, `.html`, `.txt`
+Cheatsheet: `/UNIVERSITY/COURSE###/{?LAB/}{?TUTORIAL/}Cheatsheet/{type}/{author}.pdf`, accepted formats: `.md`, `.tex`, `.pdf`, `.html`, `.txt` (Other versions are acceptable but not advised such as `.docx` or `.odt`)
 
 WebWork: `/UNIVERSITY/COURSE###/WebWork/{year}{semester}/{author}`, add `Questions/{Number}.pdf` and `Answers/{Number}.pdf`, accepted formats: `.pdf`, `.tex`
+
+Notes:
+
+- `{year}` is in format `YYYY`, example: `2019`
+- `{type}` is as `MT1`, `MT2`, `MT`, `FINAL`, ...
+- `{author}` is just a name in format `Name` or `name`, in case of multiple authors either `AliceBob` or `Alice+` or `AliceB` or just `Alice`
 
 ### Takedown / Copyright
 
